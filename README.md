@@ -1,4 +1,9 @@
-### Olá, aqui é o Ricardo Soares 👋
+## Olá, aqui é o Ricardo Soares 👋
+#### Estudante de Analíse e desenvolvimento de sistemas (2º Semestre)
+<p> Atualmente estudo programação através do Bootcamp Fullstack Santander DIO 📖</p>
+<p> Apaixonado por tecnologia 💻 </p>
+<p> Aprendendo sobre JAVA e ANGULAR 🧠</p>
+
 ##
 
  <div>
