@@ -1,31 +1,33 @@
 ## Olá, aqui é o Ricardo Soares 👋
-#### Estudante de Analíse e desenvolvimento de sistemas (2º Semestre)
-<p> Atualmente estudo programação através do Bootcamp Fullstack Santander DIO 📖</p>
-<p> Apaixonado por tecnologia 💻 </p>
-<p> Aprendendo sobre JAVA e ANGULAR 🧠</p>
+#### 🔹Estudante de Analíse e desenvolvimento de sistemas (2º Semestre)🔹
+<p>🎒 Atualmente estudo programação através do Bootcamp Fullstack Santander DIO
+<p>📗 Excel intermediário 
+<p>💻 Apaixonado por tecnologia 
+<p>🧠 Aprendendo sobre JAVA e ANGULAR
 
-##
 
  <div>
   <a href="https://github.com/risoares19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=risoares19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoares19&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" width="500" src="https://github-readme-stats.vercel.app/api?username=risoares19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="110em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoares19&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div 
      
  <p>    
  
- ###  🔶HARD SKILLS🔶
+ ### 💠 HARD SKILLS 💠
   
+  <img align="center" alt="Rica-excel" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
   <img align="center" alt="Rica-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rica-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rica-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rica-angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   
  <p>    
- 
- ### 🔶TOOLS🔶
+  
+  
+ ### 💠 TOOLS 💠 
 
   <img align="center" alt="Rica-windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Rica-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
