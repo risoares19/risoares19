@@ -3,7 +3,7 @@
 <p>🎒 Atualmente estudo programação através do <b>Bootcamp Fullstack Santander DIO</b>
 <p>📗 Excel intermediário 
 <p>💻 Apaixonado por <b>tecnologia</b>
-<p>🧠 Aprendendo sobre <b>Python</b> e <b>PostgreSQL</b>
+<p>🧠 Aprendendo sobre <b>HTML, CSS, PostgreSQL e Python</b>
  
  
  <div>
@@ -18,9 +18,11 @@
  
  ### 💠 Hard Skills 💠
   
-  <img align="center" alt="Rica-excel" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
+  <img align="center" alt="Rica-html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Rica-css" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rica-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rica-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rica-excel" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
   
  <p>    
   
